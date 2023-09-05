@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mian Cool Point & Electric Workshop</title>
+<style>
+/* CSS for the header */
+.header {
+background-color: blue; /* Change the background color to your preference */
+color: #fff; /* Change the text color to your preference */
+text-align: center;
+padding: 20px;
+display: flex;
+align-items: center; /* Vertically center items in the header */
+justify-content: space-between; /* Space between logo and text */
+}
+
+/* CSS for the business name */
+.business-name {
+font-size: 45px; /* Adjust the font size as needed */
+font-weight: bold;
+margin: 0;
+}
+
+/* CSS for the logo */
+.logo {
+width: 160px; /* Adjust the logo width as needed */
+height: 160px; /* Adjust the logo height as needed */
+}
+</style>
+</head>
+<body>
+<!-- Header Section -->
+<div class="header">
+<img src="https://i.ibb.co/cNDn3wg/20230122-172037-removebg-preview-1.png" alt="Mian Cool Point & Electric Workshop Logo" class="logo">
+<div>
+<h1 class="business-name">Mian Cool Point & Electric Workshop</h1>
+<p style="color:yellow; "><b>Your trusted source for cooling and electrical solutions</b></p>
+</div>
+</div>
+
+<!-- Rest of your website content goes here -->
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your Business</title>
+<style>
+/* CSS for the 24/7 service section */
+.service-section {
+background-color: red; /* Change the background color to your preference */
+color: #fff; /* Change the text color to your preference */
+text-align: center;
+padding: 20px;
+}
+
+/* CSS for the service text */
+.service-text {
+font-size: 20px; /* Adjust the font size as needed */
+font-weight: bold;
+margin: 0;
+}
+</style>
+</head>
+<body>
+<!-- 24/7 Hours Service Section -->
+<div class="service-section">
+<p class="service-text">24/7 Hours Service</p>
+</div>
+
+<!-- Rest of your website content goes here -->
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mian Muhammad Ramzan - Experienced Electrician</title>
+<style>
+/* CSS for the container */
+.container {
+max-width: 800px;
+margin: 0 auto;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 20px;
+}
+
+/* CSS for the owner's information */
+.owner-info {
+flex: 1;
+text-align: left;
+}
+
+/* CSS for the owner's name */
+.owner-name {
+font-size: 24px;
+font-weight: bold;
+}
+
+/* CSS for the description */
+.description {
+font-size: 16px;
+margin-top: 10px;
+}
+
+/* CSS for the image */
+.owner-image {
+flex: 1;
+text-align: right;
+}
+
+/* CSS for the image itself */
+.owner-image img {
+max-width: 100%;
+height: auto;
+}
+</style>
+</head>
+<body>
+<!-- Container for owner information and image -->
+<div class="container">
+<!-- Owner's information on the left side -->
+<div class="owner-info">
+<h1 class="owner-name">Mian Muhammad Ramzan</h1>
+<p class="description">Mian Muhammad Ramzan is a seasoned electrician who embarked on his entrepreneurial journey in 2003 with the establishment of Mian Cool Point & Electric Workshop. With an unwavering passion for his craft, he swiftly gained a reputation for being the go-to expert in his field. Mian Muhammad Ramzan's shop (Mian cool point & electric workshop)became synonymous with quality electrical services and products. Customers sought his expertise for a range of electrical needs, from repairs to installations. Through his dedication and expertise, Mian Muhammad Ramzan has consistently delivered exceptional service, earning the trust and loyalty of his clients. His shop remains a trusted name in the industry, thanks to his extensive experience and commitment to excellence.
+
+</p>
+</div>
+<!-- Image on the right side -->
+<div class="owner-image">
+<img src="https://i.ibb.co/RjB3fTm/20230704-121156.jpg">
+</div>
+</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your Business</title>
+<style>
+/* CSS for the container */
+.container {
+max-width: 800px;
+margin: 0 auto;
+}
+
+/* CSS for the service heading */
+.service-heading {
+font-size: 30px; /* Adjust the font size as needed */
+font-weight: bold;
+margin: 0;
+font-family: "Times New Roman", Times, serif; /* Change the font family here */
+padding: 20px;
+background-color: #007BFF; /* Change the background color to your preference */
+color: #fff; /* Change the text color to your preference */
+text-align: left; /* Align to the left */
+}
+</style>
+</head>
+<body>
+<!-- Container for centering the content -->
+<div class="container">
+<!-- Service Heading with background color -->
+<h1 class="service-heading">Our Services</h1>
+</div>
+
+<!-- Rest of your website content goes here -->
+
+</body>
+</html>
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mian Muhammad Ramzan - Experienced Electrician</title>
+<style>
+/* CSS for the container */
+.container {
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+}
+
+/* CSS for the owner's information */
+.owner-info {
+text-align: left;
+}
+
+/* CSS for the owner's name */
+.owner-name {
+font-size: 24px;
+font-weight: bold;
+}
+
+/* CSS for the description */
+.description {
+font-size: 16px;
+line-height: 1.4;
+margin-top: 10px;
+}
+
+/* CSS for the services section */
+.services {
+margin-top: 20px;
+border-top: 1px solid #ddd;
+padding-top: 20px;
+}
+
+/* CSS for the service cards */
+.service-card {
+border-radius: 5px;
+padding: 20px;
+margin-bottom: 20px;
+}
+
+/* CSS for service titles */
+.service-title {
+font-size: 18px;
+font-weight: bold;
+margin-bottom: 10px;
+}
+
+/* CSS for service descriptions */
+.service-description {
+font-size: 16px;
+line-height: 1.4;
+}
+
+/* Different background colors for service blocks */
+.service-block-1 {
+background-color: #ff5733; /* Orange color */
+}
+
+.service-block-2 {
+background-color: #3498db; /* Blue color */
+}
+
+.service-block-3 {
+background-color: #2ecc71; /* Green color */
+}
+
+.service-block-4 {
+background-color: #f1c40f; /* Yellow color */
+}
+
+.service-block-5 {
+background-color: #e74c3c; /* Red color */
+}
+
+.service-block-6 {
+background-color: #9b59b6; /* Purple color */
+}
+
+.service-block-7 {
+background-color: #27ae60; /* Dark Green color */
+}
+
+.service-block-8 {
+background-color: #f39c12; /* Orange color */
+}
+
+/* Add more service block colors as needed */
+
+</style>
+</head>
+<body>
+<!-- Container for owner information -->
+<div class="container">
+<!-- Owner's information -->
+
+</div>
+
+<!-- Services Section -->
+<div class="services">
+<!-- Service Card 1 with a different background color -->
+<div class="service-card service-block-1">
+<h2 class="service-title">Electrical Repairs</h2>
+<p class="service-description">We offer expert electrical repair services to ensure your electrical systems run smoothly and safely.</p>
+</div>
+
+<!-- Service Card 2 with a different background color -->
+<div class="service-card service-block-2">
+<h2 class="service-title">Cooling Solutions</h2>
+<p class="service-description">Stay cool in the hottest weather with our top-notch cooling system installations and repairs.</p>
+</div>
+
+<!-- Service Card 3 with a different background color -->
+<div class="service-card service-block-3">
+<h2 class="service-title">Maintenance Plans</h2>
+<p class="service-description">Keep your systems in perfect condition with our affordable and comprehensive maintenance plans.</p>
+</div>
+
+<!-- Service Card 4 with a different background color -->
+<div class="service-card service-block-4">
+<h2 class="service-title">AC Service</h2>
+<p class="service-description">We provide professional AC servicing to keep your air conditioning units running efficiently.</p>
+</div>
+
+<!-- Additional Service Cards with Different Background Colors -->
+<div class="service-card service-block-5">
+<h2 class="service-title">Fridge Repairing</h2>
+<p class="service-description">Our experts can repair and restore your refrigerators to optimal working condition.</p>
+</div>
+
+<div class="service-card service-block-6">
+<h2 class="service-title">Electric Motor Winding</h2>
+<p class="service-description">We specialize in electric motor winding services, ensuring your motors perform at their best.</p>
+</div>
+
+<div class="service-card service-block-7">
+<h2 class="service-title">Control Panel Work</h2>
+<p class="service-description">We offer control panel design, installation, and maintenance services for various applications.</p>
+</div>
+
+<div class="service-card service-block-8">
+<h2 class="service-title">All Types of Electrical Work</h2>
+<p class="service-description">Our experienced team can handle all types of electrical work, from installations to repairs and more.</p>
+</div>
+</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your Business</title>
+<style>
+/* CSS for the tagline section */
+.tagline-section {
+background-color: #007BFF; /* Change the background color to your preference */
+color: #fff; /* Change the text color to your preference */
+text-align: center;
+padding: 20px;
+}
+
+/* CSS for the tagline text */
+.tagline-text {
+font-size: 24px; /* Adjust the font size as needed */
+font-weight: bold;
+margin: 0;
+}
+</style>
+</head>
+<body>
+<!-- Tagline Section -->
+<div class="tagline-section">
+<p class="tagline-text">( Work on the old thing, Comfort like new )</p>
+</div>
+
+<!-- Rest of your website content goes here -->
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Your Business</title>
+<style>
+/* CSS for the services description section */
+.services-description {
+max-width: 800px;
+margin: 0 auto;
+text-align: center;
+padding: 20px;
+}
+
+/* CSS for the services description text */
+.description-text {
+font-size: 18px; /* Adjust the font size as needed */
+line-height: 1.4;
+margin: 0;
+background-color: silver;
+}
+</style>
+</head>
+<body>
+<!-- Services Description Section -->
+<div class="services-description">
+<p class="description-text"><b>Fridge Repairing, AC Repairing, Electric Motor Winding, and Control Panel Work are done satisfactorily by us.</b><br>
+Power Factor, Star Delta, All Control Panels and UPS are done.
+
+</p>
+</div>
+
+<!-- Rest of your website content goes here -->
+
+</body>
+</html>
+<h1>Service Area ( Lahore )</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Map of Lahore</title>
+<style>
+/* CSS for the map container */
+#map {
+width: 100%;
+height: 400px;
+border: 3px solid #000; /* Add a border around the map */
+}
+</style>
+</head>
+<body>
+<!-- Map Container -->
+<div id="map">
+<iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=74.1798%2C31.5493%2C74.3604%2C31.6579&layer=mapnik&marker=31.6036%2C74.2704"></iframe>
+</div>
+</body>
+</html>
+<h1 style= "color: blue;">Contact Us</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact Us</title>
+<style>
+/* CSS for the contact section */
+.contact-section {
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+background-color:#FFE87C;
+}
+
+/* CSS for contact details */
+.contact-details {
+font-size: 18px;
+margin-bottom: 10px;
+background-color:#FFE87C;
+}
+
+/* CSS for the phone number */
+.phone {
+font-weight: bold;
+}
+
+/* CSS for the email link */
+.email-link {
+text-decoration: none;
+color: #007BFF; /* Link color */
+}
+
+/* CSS for the office address */
+.address {
+font-style: italic;
+}
+</style>
+</head>
+<body>
+<!-- Contact Section -->
+<div class="contact-section">
+<p class="contact-details"><span class="phone">Phone Number:</span> 0300 4980854</p>
+<p class="contact-details"><span class="phone">Whatsapp Number:</span> 0300 4980854</p>
+<p class="contact-details"><span class="email">Email:</span> <a href="mailto:miansahib@miancoolpoint.shop" class="email-link">miansahib@miancoolpoint.shop</a></p>
+
+<p class="contact-details"><span class="phone">Website:</span> www.miancoolpoint.shop</p><p class="contact-details"><span class="address">Office:</span> Niaz Baig Road Thokar Niaz Biag, Lahore</p>
+</div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Call Button</title>
+<!-- Include Font Awesome CSS (you may need to download and host it locally) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+/* CSS for the call button */
+.call-button {
+background-color: #007BFF; /* Change the button color to your preference */
+color: #fff; /* Change the button text color to your preference */
+padding: 10px 20px;
+font-size: 16px;
+border: none;
+cursor: pointer;
+}
+</style>
+</head>
+<body>
+<!-- Click to Call Button with Call Icon -->
+<button class="call-button" onclick="callPhoneNumber('+923004980854')">
+<i class="fas fa-phone"></i> Call
+</button>
+
+<!-- JavaScript to initiate the call -->
+<script>
+function callPhoneNumber(phoneNumber) {
+window.location.href = 'tel:' + phoneNumber;
+}
+</script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Email Button</title>
+<!-- Include Font Awesome CSS (you may need to download and host it locally) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+/* CSS for the email button */
+.email-button {
+background-color: #007BFF; /* Change the button color to your preference */
+color: #fff; /* Change the button text color to your preference */
+padding: 10px 20px;
+font-size: 16px;
+border: none;
+cursor: pointer;
+}
+</style>
+</head>
+<body>
+<!-- Email Button with Email Icon -->
+<a class="email-button" href="mailto:miansahib@miancoolpoint.shop">
+<i class="fas fa-envelope"></i> Email Us
+</a>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Centered Text</title>
+<style>
+/* CSS for the container */
+.center-container {
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh; /* Adjust the height as needed */
+}
+
+/* CSS for the centered text */
+.centered-text {
+font-size: 24px; /* Adjust the font size as needed */
+text-align: center;
+}
+</style>
+</head>
+<body>
+<!-- Centered Text Container -->
+<div class="center-container">
+<p class="centered-text"><h2>OR, Contact US</h2></p>
+</div>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact Us</title>
+<style>
+/* CSS for the contact section */
+.contact-section {
+background-color: #f4f4f4; /* Change the background color to your preference */
+padding: 40px;
+}
+
+/* CSS for the contact form */
+.contact-form {
+max-width: 400px;
+margin: 0 auto;
+}
+
+/* CSS for form labels and inputs */
+.form-label {
+font-weight: bold;
+}
+
+.form-input {
+width: 100%;
+padding: 10px;
+margin-bottom: 20px;
+}
+
+/* CSS for the submit button */
+.submit-button {
+background-color: #007BFF; /* Change the button color to your preference */
+color: #fff; /* Change the button text color to your preference */
+border: none;
+padding: 10px 20px;
+cursor: pointer;
+}
+
+/* Style the submit button on hover */
+.submit-button:hover {
+background-color: #0056b3; /* Change the button color on hover */
+}
+</style>
+</head>
+<body>
+<!-- Contact Section -->
+<section class="contact-section">
+<h2>Contact Us</h2>
+<div class="contact-form">
+<form action="#" method="post">
+<div class="form-group">
+<label for="name" class="form-label">Name:</label>
+<input type="text" id="name" name="name" class="form-input" required>
+</div>
+<div class="form-group">
+<label for="email" class="form-label">Email:</label>
+<input type="email" id="email" name="email" class="form-input" required>
+</div>
+<div class="form-group">
+<label for="message" class="form-label">Message:</label>
+<textarea id="message" name="message" rows="4" class="form-input" required></textarea>
+</div>
+<button type="submit" class="submit-button">Submit</button>
+</form>
+</div>
+</section>
+<script>
+document.getElementById("contact-form").addEventListener("submit", function(event) {
+event.preventDefault(); // Prevent the default form submission
+
+// Retrieve form data
+const name = document.getElementById("name").value;
+const email = document.getElementById("email").value;
+const message = document.getElementById("message").value;
+
+// Send form data to a server-side script for email processing
+// Example: You can use AJAX or fetch() to send a POST request to your server
+
+// After sending the data to the server, you can display a confirmation message to the user
+
+alert("Form submitted successfully!");
+});
+</script>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head2>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mian Cool Point & Electric Workshop</title>
+<style>
+/* CSS for the header */
+.header2 {
+background-color: yellow; /* Change the background color to your preference */
+color: black; /* Change the text color to your preference */
+text-align: center;
+padding: 20px;
+}
+
+/* CSS for the business name */
+.business-name {
+font-size: 40px; /* Adjust the font size as needed */
+font-weight: bold;
+margin: 0;
+}
+
+/* CSS for the social media icons */
+.social-icons {
+margin-top: 20px; /* Adjust the margin as needed */
+}
+
+.social-icons a {
+color: #fff; /* Change the icon color to your preference */
+font-size: 18px; /* Adjust the icon size as needed */
+margin: 0 10px; /* Adjust the margin between icons as needed */
+text-decoration: none; /* Remove underlines from links */
+}
+</style>
+</head2>
+<body>
+<!-- Header Section -->
+<div class="header2">
+<h1 class="business-name">Mian Cool Point & Electric Workshop</h1>
+<!-- Social Media Icons -->
+<div class="social-icons">
+<a href="https://www.youtube.com"><img src="https://i.ibb.co/YDLNMFr/download-6-1-14.png" alt="YouTube"></a>
+<a href="https://www.facebook.com"><img src="https://i.ibb.co/Bywgp0M/download-10-14.jpg" alt="Facebook"></a>
+<a href="https://www.tiktok.com"><img src="https://i.ibb.co/QFfWThK/download-8-14.png" alt="TikTok"></a>
+<a href="https://www.telegram.me"> <img src="https://i.ibb.co/p1Nn2Td/download-9-14.png" alt="Telegram"></a>
+</div>
+</div>
+
+<!-- Rest of your website content goes here -->
+
+</body>
+</html>
